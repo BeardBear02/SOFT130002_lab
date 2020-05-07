@@ -9,6 +9,7 @@
     ①要求使用JS闭包的方式使得计数实现局部私有，不可以在全局区域声明计数变量。
     ②使用console.log打印计数即可，到达一分钟提前停止也需要console.log相应的提示语句。
 */
+
 function testTime(){
     function count(){
         let num = 1;
