@@ -60,6 +60,6 @@ for(let i = 0; i < 4; i++){
 		currentItem.childNodes[2].appendChild(imgContainer);
 	}
 	
-	
+
 	container.insertBefore(currentItem, scriptCode);
 }
